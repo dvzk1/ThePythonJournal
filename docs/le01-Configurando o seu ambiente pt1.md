@@ -63,4 +63,4 @@ A título de curiosidade, aqui está o meu setup atual:
 
 Enfim, sobre computadores é isso, vale dar uma olhada em vídeos no youtube também e em outras fontes confiáveis.
 
-Com essa introdução sobre hardware, encerramos a parte 1 um do nosso guia sobre a configuração que eu recomendo para desenvolver em python em 2025. Na parte 2, entraremos em mais detalhes sobre, sitema operacional, softwares e o ambiente em si. Te vejo lá meu guerreiro!! 🚀
+Com essa introdução sobre hardware, encerramos a parte 1 um do nosso guia sobre a configuração que eu recomendo para desenvolver em python em 2025. Na parte 2, entraremos em mais detalhes sobre, sitema operacional, softwares e o ambiente em si. Te vejo lá meu guerreiro!! 

@@ -1,6 +1,6 @@
 # ThePythonJournal
 
-## Python starts here
+## Por favor, leia esse README antes de iniciar!
 
 O **ThePythonJournal** nasceu da necessidade de uma documentação que fosse objetiva e aplicável ao meu mundo real como *rapaz dos dados* hahahaha. Diferente dos tutoriais que eu já tentei seguir, a proposta aqui é ensinar **Python útil**, ou seja, exemplos que você verá no seu dia a dia, casos reais.
 

@@ -30,7 +30,7 @@ Te convido a vir comigo nessa jornada para aprender de vez a linguagem e, assim 
 ## Estrutura do Repositório:
 - 📚 Os guias e materiais estão na pasta **`/lectures`** → [Acesse aqui](https://github.com/dvzk1/ThePythonJournal/tree/main/lectures)  
 - 💻 Projetos, atividades e outros materiais com códigos estão na pasta **`/projects`** → [Acesse aqui](https://github.com/dvzk1/ThePythonJournal/tree/main/projects)
-- As pastas ``/src`` e ``/utils`` contém apenas arquivos que dão estrutura para o repositório, como fotos, e coisas do tipo, **não haverá conteúdo nelas**.
+- As pastas ``/assets`` e ``/utils`` contém apenas arquivos que dão estrutura para o repositório, como fotos, e coisas do tipo, **não haverá conteúdo nelas**.
 
 ---
 

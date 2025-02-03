@@ -1,12 +1,12 @@
 # 🛠️ Configurando o seu Ambiente de Desenvolvimento em 2025 - Parte 1
 
-### Tudo o que você precisa para começar a programar em Python  
+### Tudo o que você precisa para começar a programar em Python - Introdução e Hardware
 
 Para iniciarmos nesta jornada, é essencial configurar o seu ambiente de desenvolvimento e ajustá-lo da forma que faz mais sentido para você, dev. Este guia tem como objetivo te ajudar a preparar um ambiente adequado para rodar seus códigos de forma eficiente.  
 
 ### ⚠️ Importante: Este guia é voltado para programadores de **DADOS**
 
-Grande parte do conteúdo deste repositório será focado no fluxo de trabalho que envolve **Inteligência Artificial (IA), Machine Learning (ML) e pipelines de coleta e processamento de dados**. Todavia, isso não impede que você que quer aprender python para fazer apps, automações e outros tipos de atividade não tire proveito dos conhecimentos daqui.
+Grande parte do conteúdo deste repositório será focado no fluxo de trabalho que envolve **Inteligência Artificial (IA), Machine Learning (ML) e pipelines de coleta e processamento de dados**. Todavia, isso não impede que você que quer aprender Python para fazer apps, automações e outros tipos de atividade não tire proveito dos conhecimentos daqui.
 
 Essas tarefas costumam ser **computacionalmente intensivas**, ou seja, rodar o código localmente pode não fazer muito sentido (principalmente se o seu computador for daqueles que esquenta até mesmo jogando um Subway Surfers hahaha).  
 
@@ -17,7 +17,7 @@ Para dar os primeiros passos, você NÃO precisa do computador mais potente que 
 - **Google Colaboratory** ([Google Colab](https://colab.research.google.com))  
 - **Kaggle Notebooks** ([Kaggle](https://www.kaggle.com))  
 
-Esses serviços rodam na nuvem, e possuem um poder computacional decente, são gratuitos (mas você pode optar por pagar um plano premium se quiser mais poder computacional), e não tem necessidade de uma extensa configuração (já que já vêm com quase tudo instalado - python, bibliotecas, interface para fazer os códigos...). Basta acessar, escrever seu código e rodar. **Simples assim.**  
+Esses serviços rodam na nuvem, e possuem um poder computacional decente, são gratuitos (mas você pode optar por pagar um plano premium se quiser mais poder computacional), e não tem necessidade de uma extensa configuração (já que já vêm com quase tudo instalado - Python, bibliotecas, interface para fazer os códigos...). Basta acessar, escrever seu código e rodar. **Simples assim.**  
 
 ### Sobre o lado bom e o lado ruim dos ambientes online
 
@@ -63,4 +63,4 @@ A título de curiosidade, aqui está o meu setup atual:
 
 Enfim, sobre computadores é isso, vale dar uma olhada em vídeos no youtube também e em outras fontes confiáveis.
 
-Com essa introdução sobre hardware, encerramos a parte 1 um do nosso guia sobre a configuração que eu recomendo para desenvolver em python em 2025. Na parte 2, entraremos em mais detalhes sobre, sitema operacional, softwares e o ambiente em si. Te vejo lá meu guerreiro!! 
+Com essa introdução sobre hardware, encerramos a Parte 1 um do nosso guia sobre a configuração que eu recomendo para desenvolver em Python em 2025. Na Parte 2, entraremos em mais detalhes sobre, sitema operacional, softwares e o ambiente em si. Te vejo lá meu guerreiro!! 

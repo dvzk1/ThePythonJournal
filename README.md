@@ -27,6 +27,13 @@ Te convido a vir comigo nessa jornada para aprender de vez a linguagem e, assim 
 
 ---
 
+## Estrutura do Repositório:
+- Os guias e materiais estão na pasta ``/lectures``
+- Projetos, atividades e outros materiais com códigos, estão na pasta ``/projects``
+- As pastas ``/src`` e ``/utils`` contém apenas arquivos que dão estrutura para o repositório, como fotos, e coisas do tipo, **não haverá conteúdo nelas**.
+
+---
+
 ***⚠️ Aviso: Caso tenha qualquer dúvida, sinta-se à vontade para entrar em contato por e-mail:*** <contacttpyj@gmail.com> ***. Além disso, você pode utilizar sua ferramenta de IA favorita para esclarecer tópicos que possam ter ficado abstratos, incompletos ou vagos. O conhecimento está sempre em expansão, e há muito mais para explorar na internet!***
 
 ***⚠️ Aviso 2: Caso encontre algum erro, ou tenha alguma sugestão para esse texto, entre em contato comigo em:*** <contacttpyj@gmail.com> ***e sugira suas mudanças! Contribua com o projeto, você e sua opinião são muito bem vindos por aqui!***
